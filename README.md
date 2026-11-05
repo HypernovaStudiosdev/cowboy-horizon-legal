@@ -52,8 +52,8 @@ h1, h2 { color: #d9a441; }
 <p>These Terms of Service may be updated from time to time. Updated terms will be published on this page.</p>
 
 <h2>10. Contact Information</h2>
-<p><strong>Developer:</strong> [Your Developer Name]</p>
-<p><strong>Email:</strong> [Your Support Email]</p>
+<p><strong>Developer:</strong> [hypernovastudiosdev]</p>
+<p><strong>Email:</strong> [hypernovastudiosdev@gmail.com]</p>
 
 </body>
 </html>
